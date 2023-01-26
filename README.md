@@ -2,7 +2,7 @@
 
 
 ![forks](https://img.shields.io/github/forks/ravindudil5han/hiru-news-ap?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/ravindudil5han/hiru-news-ap?style=social)
+![stars](https://img.shields.io/github/stars/ravindudil5han/hiru-news-api?style=social)
 
 ![size](https://img.shields.io/github/repo-size/ravindudil5han/hiru-news-ap?color=purple&label=Repo%20Size&style=plastic)
 ![license](https://img.shields.io/github/license/ravindudil5han/hiru-news-api?color=purple&label=License&style=plastic)
