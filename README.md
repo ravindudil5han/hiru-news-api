@@ -1,5 +1,7 @@
 # Hiru News
 
+
+```
 const request = require('request');
 let previousResponse;
 
@@ -18,3 +20,4 @@ const checkAPI = () => {
 }
 
 setInterval(checkAPI, 60000); // check the API every minute (60000 milliseconds)
+```
